@@ -11,13 +11,13 @@ public class Persona {
 
     public void setNombre(String nombre) throws PersonalizedNameException{
 
-        Pattern pat = Pattern.compile("[a-zA-Z]");
+        Pattern pat = Pattern.compile("^[a-zA-Z]*$");
         Matcher mat = pat.matcher(nombre);
         if (mat.find()) {
             this.nombre = nombre;
             System.out.println("Nombre asigando correctamente");
         } else {
-            throw new PersonalizedNameException("Solo se pueden ingresar letras");
+            throw new PersonalizedNameException("El nombre solo puede contener letras y no puede tener espacios");
         }
     }
 }

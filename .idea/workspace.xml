@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7fcc31c-c987-43ff-937e-94a5599368d1" name="Changes" comment="Creacion inicial de las clases">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tarea7Herencia/PersonalizedNameException.java" afterDir="false" />
+    <list default="true" id="d7fcc31c-c987-43ff-937e-94a5599368d1" name="Changes" comment="clases finalizadas, falta validacion del nombre con regex, ventana emergente realizada con exito">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tarea7Herencia/ExceptionPersonalized.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tarea7Herencia/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tarea7Herencia/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tarea7Herencia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tarea7Herencia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660794064649</updated>
       <workItem from="1660794067118" duration="3869000" />
-      <workItem from="1660869790441" duration="8735000" />
+      <workItem from="1660869790441" duration="8961000" />
+      <workItem from="1660925374660" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion inicial de las clases">
       <created>1660798195592</created>
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660798195592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="clases finalizadas, falta validacion del nombre con regex, ventana emergente realizada con exito">
+      <created>1660883718251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660883718251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion inicial de las clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion inicial de las clases" />
+    <MESSAGE value="clases finalizadas, falta validacion del nombre con regex, ventana emergente realizada con exito" />
+    <option name="LAST_COMMIT_MESSAGE" value="clases finalizadas, falta validacion del nombre con regex, ventana emergente realizada con exito" />
   </component>
 </project>
